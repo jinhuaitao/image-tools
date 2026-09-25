@@ -7,5 +7,5 @@
 # 跨域隔离所需的 COOP / COEP 响应头由 public/_headers 声明，构建后
 # 会随 dist/ 一起上传 —— Pages 原生支持该文件。
 name = "image-tools"
-pages_build_output_dir = "./dist"
+pages_build_output_dir = "."
 compatibility_date = "2026-09-21"
